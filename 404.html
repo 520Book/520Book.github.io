@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="generator" content="VuePress 2.0.0-beta.38">
+    <style>
+      :root {
+        --c-bg: #fff;
+      }
+      html.dark {
+        --c-bg: #22272e;
+      }
+      html, body {
+        background-color: var(--c-bg);
+      }
+    </style>
+    <script>
+      const userMode = localStorage.getItem('vuepress-color-scheme');
+			const systemDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+			if (userMode === 'dark' || (userMode !== 'light' && systemDarkMode)) {
+				document.documentElement.classList.toggle('dark', true);
+			}
+    </script>
+    <title>爱学习的好孩子</title><meta name="description" content="本站主要分享编程知识">
+    <link rel="modulepreload" href="/assets/app.afc1b3e6.js"><link rel="modulepreload" href="/assets/404.html.93146c89.js"><link rel="modulepreload" href="/assets/404.html.557e3cc4.js">
+    <link rel="stylesheet" href="/assets/style.8d0faf35.css">
+  </head>
+  <body>
+    <div id="app"><!--[--><div class="theme-default-content"><h1>404</h1><blockquote>这里是如此的荒凉，空空如也</blockquote><a href="/" class=""> 回主页看看 </a><p>5秒钟后将会自动返回主页</p></div><!----><!--]--></div>
+    <script type="module" src="/assets/app.afc1b3e6.js" defer></script>
+  </body>
+</html>
