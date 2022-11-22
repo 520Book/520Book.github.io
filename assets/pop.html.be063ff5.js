@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-60022ddb","path":"/JavaScript/Functions/Array/pop.html","title":"\u8BED\u6CD5","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[{"level":2,"title":"\u4F8B\u5B501","slug":"\u4F8B\u5B501","link":"#\u4F8B\u5B501","children":[]}],"git":{},"filePathRelative":"JavaScript/Functions/Array/pop.md"}');export{t as data};

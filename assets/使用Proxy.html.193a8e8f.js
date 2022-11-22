@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-77793392","path":"/JavaScript/Basic/%E4%BD%BF%E7%94%A8Proxy.html","title":"\u4E00\u3001\u7B80\u5355\u7684\u4EE3\u7406\u5B9E\u4F8B","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{},"filePathRelative":"JavaScript/Basic/\u4F7F\u7528Proxy.md"}');export{t as data};

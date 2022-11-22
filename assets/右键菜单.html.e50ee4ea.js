@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-b20aa4b0","path":"/Windows/Regedit/%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95.html","title":"\u65B0\u5EFA\u53F3\u952E\u9879\u76EE","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{},"filePathRelative":"Windows/Regedit/\u53F3\u952E\u83DC\u5355.md"}');export{e as data};

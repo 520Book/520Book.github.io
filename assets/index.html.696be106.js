@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-27f257e0","path":"/Deno/API/ES_Modules/","title":"","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{},"filePathRelative":"Deno/API/ES_Modules/README.md"}');export{e as data};

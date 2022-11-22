@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-005c6078","path":"/Database/MongoDB/%E5%A6%82%E4%BD%95%E8%BF%9E%E6%8E%A5MongoDB%E6%95%B0%E6%8D%AE%E5%BA%93.html","title":"NodeJS","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{},"filePathRelative":"Database/MongoDB/\u5982\u4F55\u8FDE\u63A5MongoDB\u6570\u636E\u5E93.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-70779dfa","path":"/Linux/Cmd/arch.html","title":"\u6982\u8FF0","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[{"level":2,"title":"OPTION\u8BF4\u660E","slug":"option\u8BF4\u660E","link":"#option\u8BF4\u660E","children":[]}],"git":{},"filePathRelative":"Linux/Cmd/arch.md"}');export{t as data};

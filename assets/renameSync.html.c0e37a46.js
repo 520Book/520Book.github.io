@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-b790e88c","path":"/Deno/API/File_System/renameSync.html","title":"\u51FD\u6570\u539F\u578B","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{},"filePathRelative":"Deno/API/File_System/renameSync.md"}');export{e as data};

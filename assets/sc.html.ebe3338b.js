@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-50579b4f","path":"/Windows/Cmd/sc.html","title":"","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[{"level":2,"title":"\u5220\u9664\u670D\u52A1","slug":"\u5220\u9664\u670D\u52A1","link":"#\u5220\u9664\u670D\u52A1","children":[]}],"git":{},"filePathRelative":"Windows/Cmd/sc.md"}');export{e as data};

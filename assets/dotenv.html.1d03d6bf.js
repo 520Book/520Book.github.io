@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-965ee656","path":"/Deno/Std/dotenv.html","title":"configSync","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{},"filePathRelative":"Deno/Std/dotenv.md"}');export{e as data};

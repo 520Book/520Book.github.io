@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-fa2f373c","path":"/Linux/Question/libatk-bridge-2.0.so.0.html","title":"","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{},"filePathRelative":"Linux/Question/libatk-bridge-2.0.so.0.md"}');export{t as data};

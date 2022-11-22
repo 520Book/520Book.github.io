@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as o,a as e,b as c}from"./app.678d7e92.js";const n={},s=e("p",null,[e("code",null,"webpack"),c("\u7528\u4E8E\u7F16\u8BD1"),e("code",null,"JavaScript"),c("\u6A21\u5757\u3002")],-1),_=[s];function l(r,d){return a(),o("div",null,_)}const i=t(n,[["render",l],["__file","webpack.html.vue"]]);export{i as default};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-648fc6f6","path":"/Linux/Basic/%E5%AE%89%E8%A3%85GLIBC_2.29.html","title":"","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{},"filePathRelative":"Linux/Basic/\u5B89\u88C5GLIBC_2.29.md"}');export{t as data};

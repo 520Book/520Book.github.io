@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-46023afb","path":"/Windows/Cmd/findstr.html","title":"findstr","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{},"filePathRelative":"Windows/Cmd/findstr.md"}');export{t as data};

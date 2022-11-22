@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-083fff4a","path":"/Other/Sak/hexo.html","title":"\u5B89\u88C5 Hexo","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{},"filePathRelative":"Other/Sak/hexo.md"}');export{e as data};

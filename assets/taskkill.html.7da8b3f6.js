@@ -1,0 +1,2 @@
+import{_ as s,o as a,c as l,a as e}from"./app.678d7e92.js";const n={},t=e("div",{class:"language-bash ext-sh line-numbers-mode"},[e("pre",{class:"language-bash"},[e("code",null,`TASKKILL /IM pocketbase.exe /F
+`)]),e("div",{class:"line-numbers","aria-hidden":"true"},[e("div",{class:"line-number"})])],-1),c=[t];function o(r,i){return a(),l("div",null,c)}const d=s(n,[["render",o],["__file","taskkill.html.vue"]]);export{d as default};

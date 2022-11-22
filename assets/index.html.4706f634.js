@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-00ea1d60","path":"/Database/PostgreSql/","title":"adfasd","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{},"filePathRelative":"Database/PostgreSql/README.md"}');export{a as data};

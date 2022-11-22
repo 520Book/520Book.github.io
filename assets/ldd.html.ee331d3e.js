@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-21a99054","path":"/Linux/Cmd/ldd.html","title":"","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[{"level":3,"title":"\u9009\u9879","slug":"\u9009\u9879","link":"#\u9009\u9879","children":[]}],"git":{},"filePathRelative":"Linux/Cmd/ldd.md"}');export{e as data};

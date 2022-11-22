@@ -1,0 +1,2 @@
+import{_ as e,o as s,c as a,e as n}from"./app.678d7e92.js";const t={},c=n(`<div class="language-bash ext-sh line-numbers-mode"><pre class="language-bash"><code>yum <span class="token parameter variable">-y</span> <span class="token function">install</span> atk
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>`,1),l=[c];function i(o,r){return s(),a("div",null,l)}const d=e(t,[["render",i],["__file","libatk-1.0.so.0.html.vue"]]);export{d as default};

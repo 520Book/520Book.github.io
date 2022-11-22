@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-f7cd288a","path":"/Linux/Cmd/yes.html","title":"yes","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[{"level":2,"title":"OPTION\u8BF4\u660E","slug":"option\u8BF4\u660E","link":"#option\u8BF4\u660E","children":[]}],"git":{},"filePathRelative":"Linux/Cmd/yes.md"}');export{e as data};

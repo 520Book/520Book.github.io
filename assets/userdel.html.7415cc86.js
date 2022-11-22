@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0babe562","path":"/Linux/Cmd/userdel.html","title":"userdel","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[{"level":2,"title":"\u9009\u9879\u8BF4\u660E","slug":"\u9009\u9879\u8BF4\u660E","link":"#\u9009\u9879\u8BF4\u660E","children":[]}],"git":{},"filePathRelative":"Linux/Cmd/userdel.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-616de90e","path":"/Other/Other/chrome%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91.html","title":"Hello World","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{},"filePathRelative":"Other/Other/chrome\u63D2\u4EF6\u5F00\u53D1.md"}');export{e as data};

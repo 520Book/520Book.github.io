@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-4986290e","path":"/Linux/Basic/SELinux%E6%98%AF%E4%BB%80%E4%B9%88.html","title":"","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{},"filePathRelative":"Linux/Basic/SELinux\u662F\u4EC0\u4E48.md"}');export{t as data};

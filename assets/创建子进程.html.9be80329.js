@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-cb9ed6ba","path":"/Deno/Base/%E5%88%9B%E5%BB%BA%E5%AD%90%E8%BF%9B%E7%A8%8B.html","title":"1. \u4F7F\u7528Deno.run\u521B\u5EFA\u5B50\u8FDB\u7A0B","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{},"filePathRelative":"Deno/Base/\u521B\u5EFA\u5B50\u8FDB\u7A0B.md"}');export{e as data};

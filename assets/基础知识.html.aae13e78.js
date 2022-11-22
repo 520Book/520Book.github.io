@@ -1,0 +1,6 @@
+import{_ as e,o as n,c as a,e as i}from"./app.678d7e92.js";const d={},l=i(`<h2 id="\u5185\u8FDE\u63A5-inner-join" tabindex="-1"><a class="header-anchor" href="#\u5185\u8FDE\u63A5-inner-join" aria-hidden="true">#</a> \u5185\u8FDE\u63A5\uFF08INNER JOIN\uFF09</h2><h3 id="\u8BED\u6CD5" tabindex="-1"><a class="header-anchor" href="#\u8BED\u6CD5" aria-hidden="true">#</a> \u8BED\u6CD5</h3><div class="language-SQL ext-SQL line-numbers-mode"><pre class="language-SQL"><code>SELECT table1.column1, table2.column2...
+FROM table1
+INNER JOIN table2
+ON ...
+ON table1.common_filed = table2.common_field;
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,3),s=[l];function c(r,t){return n(),a("div",null,s)}const _=e(d,[["render",c],["__file","\u57FA\u7840\u77E5\u8BC6.html.vue"]]);export{_ as default};

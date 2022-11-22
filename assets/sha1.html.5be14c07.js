@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-642d54ca","path":"/Algorithm/sha1.html","title":"","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{},"filePathRelative":"Algorithm/sha1.md"}');export{t as data};

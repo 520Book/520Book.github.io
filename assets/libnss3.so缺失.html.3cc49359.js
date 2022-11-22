@@ -1,0 +1,3 @@
+import{_ as e,o as s,c as n,e as a}from"./app.678d7e92.js";const c={},i=a(`<h1 id="\u5B89\u88C5" tabindex="-1"><a class="header-anchor" href="#\u5B89\u88C5" aria-hidden="true">#</a> \u5B89\u88C5</h1><div class="language-bash ext-sh line-numbers-mode"><pre class="language-bash"><code><span class="token comment"># RedHat\u7CFB\u5217</span>
+yum <span class="token function">install</span> nss
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div>`,2),t=[i];function l(d,o){return s(),n("div",null,t)}const _=e(c,[["render",l],["__file","libnss3.so\u7F3A\u5931.html.vue"]]);export{_ as default};

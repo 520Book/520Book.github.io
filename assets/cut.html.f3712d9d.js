@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-324fc580","path":"/Linux/Cmd/cut.html","title":"cut","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[{"level":2,"title":"\u9009\u9879\u8BF4\u660E","slug":"\u9009\u9879\u8BF4\u660E","link":"#\u9009\u9879\u8BF4\u660E","children":[]}],"git":{},"filePathRelative":"Linux/Cmd/cut.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-3b19dfa8","path":"/JavaScript/Functions/Array/sort.html","title":"sort()\u65B9\u6CD5","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{},"filePathRelative":"JavaScript/Functions/Array/sort.md"}');export{t as data};

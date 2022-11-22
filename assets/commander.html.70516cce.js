@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-39fc9fa8","path":"/Deno/X/commander.html","title":"\u5B89\u88C5","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[{"level":2,"title":"Options \u89E3\u6790","slug":"options-\u89E3\u6790","link":"#options-\u89E3\u6790","children":[]}],"git":{},"filePathRelative":"Deno/X/commander.md"}');export{e as data};

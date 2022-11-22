@@ -1,0 +1,1 @@
+const r=JSON.parse('{"key":"v-76500d1c","path":"/JavaScript/Functions/Array/Array.isArray.html","title":"Array.isArray","lang":"zh-CN","frontmatter":{"title":"Array.isArray"},"excerpt":"","headers":[],"git":{},"filePathRelative":"JavaScript/Functions/Array/Array.isArray.md"}');export{r as data};

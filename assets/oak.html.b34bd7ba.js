@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-076aad2a","path":"/Deno/X/oak.html","title":"\u4F7F\u7528oak\u521B\u5EFAHTTP\u670D\u52A1\u5668","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{},"filePathRelative":"Deno/X/oak.md"}');export{a as data};

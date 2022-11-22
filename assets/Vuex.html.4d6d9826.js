@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-90538d78","path":"/Vue/Basic/Vuex.html","title":"\u5B89\u88C5Vuex","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[{"level":2,"title":"mapState \u8F85\u52A9\u51FD\u6570","slug":"mapstate-\u8F85\u52A9\u51FD\u6570","link":"#mapstate-\u8F85\u52A9\u51FD\u6570","children":[]}],"git":{},"filePathRelative":"Vue/Basic/Vuex.md"}');export{e as data};

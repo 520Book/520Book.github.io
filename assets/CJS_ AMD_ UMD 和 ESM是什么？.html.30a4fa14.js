@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-3edf3e3e","path":"/JavaScript/Basic/CJS,%20AMD,%20UMD%20%E5%92%8C%20ESM%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F.html","title":"CJS","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{},"filePathRelative":"JavaScript/Basic/CJS, AMD, UMD \u548C ESM\u662F\u4EC0\u4E48\uFF1F.md"}');export{t as data};

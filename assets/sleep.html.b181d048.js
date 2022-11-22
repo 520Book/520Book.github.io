@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1ef760ea","path":"/Linux/Cmd/sleep.html","title":"sleep","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[{"level":2,"title":"\u53C2\u6570","slug":"\u53C2\u6570","link":"#\u53C2\u6570","children":[]}],"git":{},"filePathRelative":"Linux/Cmd/sleep.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-b3a136c0","path":"/Linux/Cmd/setcap.html","title":"setcap","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{},"filePathRelative":"Linux/Cmd/setcap.md"}');export{t as data};

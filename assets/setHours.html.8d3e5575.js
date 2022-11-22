@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as s,a as o}from"./app.678d7e92.js";const c={},n=o("p",null,"let timeStamp = new Date(new Date().setHours(0, 0, 0, 0)).getTime() + 86400 * 1000;",-1),_=[n];function a(r,l){return t(),s("div",null,_)}const m=e(c,[["render",a],["__file","setHours.html.vue"]]);export{m as default};

@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-758a9fb0","path":"/JavaScript/Basic/urlencode%E7%BC%96%E7%A0%81.html","title":"","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{},"filePathRelative":"JavaScript/Basic/urlencode\u7F16\u7801.md"}');export{a as data};

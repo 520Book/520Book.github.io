@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-c9349bc6","path":"/JavaScript/Basic/JS%E9%87%8C%E7%9A%84valueOf%E5%88%B0%E5%BA%95%E6%98%AF%E5%B9%B2%E5%98%9B%E7%9A%84.html","title":"","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{},"filePathRelative":"JavaScript/Basic/JS\u91CC\u7684valueOf\u5230\u5E95\u662F\u5E72\u561B\u7684.md"}');export{a as data};

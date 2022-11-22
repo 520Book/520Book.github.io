@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0ce73cdc","path":"/NodeJS/X/anywhere.html","title":"\u5B89\u88C5","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[{"level":2,"title":"Error: spawn xdg-open ENOENT","slug":"error-spawn-xdg-open-enoent","link":"#error-spawn-xdg-open-enoent","children":[]}],"git":{},"filePathRelative":"NodeJS/X/anywhere.md"}');export{e as data};

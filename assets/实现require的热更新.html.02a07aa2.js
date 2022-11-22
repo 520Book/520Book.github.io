@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5823b6e6","path":"/NodeJS/Base/%E5%AE%9E%E7%8E%B0require%E7%9A%84%E7%83%AD%E6%9B%B4%E6%96%B0.html","title":"","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{},"filePathRelative":"NodeJS/Base/\u5B9E\u73B0require\u7684\u70ED\u66F4\u65B0.md"}');export{e as data};

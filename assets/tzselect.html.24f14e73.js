@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-af8f8164","path":"/Linux/Cmd/tzselect.html","title":"\u6982\u8FF0","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{},"filePathRelative":"Linux/Cmd/tzselect.md"}');export{t as data};

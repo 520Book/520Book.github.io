@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-30f51878","path":"/Neo4j/chapter%201.html","title":"\u521B\u5EFA\u8282\u70B9","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{},"filePathRelative":"Neo4j/chapter 1.md"}');export{e as data};
